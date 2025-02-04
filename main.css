@@ -1,4 +1,37 @@
-.hello{
+    
+    .nav-logo {
+        background-color: lightblue;
+        height: 50px;
+        width: auto;
+        
+    }
+    
+    .nav-buttons {
+        
+        color: burlywood;
+        text-decoration: none;
+        background-color: lightblue;
+        padding: 1vw;
+        margin-left: 0px;
+       
+        
+    }
+    
+     .sign-up {
+        
+        color: darkblue;
+        border-color: darkblue;
+        text-decoration: none;
+        background-color: lightblue;
+        padding: 10px;
+        margin-left: 30vw;
+        border-radius: 10px;
+       
+        
+    }
+    
+    a:hover {
+        color: white;
+    }
 
-  color:red;
-}
+   
